@@ -1,11 +1,8 @@
 # Analysis 
 
-This section includes examples of technical analysis done using Jupyter notebooks.
-Each sub-section highlights different types of analyses and visualizations.
-In particular, it highlights that we can easily publish interactive visualizations
-produced with packages such as hvPlot, altair, or Folium, without losing
-any of the interactive features. 
-
-On this page, you might want to share more introductory or background information about 
-the analyses to help guide the reader. 
+Philadelphia have being well known for its unsafety, crime and chaos at especially the northern part.
+But we do want to question, does crime affect all people? or some races and disadvantaged groups will suffer more.
+This project hence tries to investigate the relationship between house prices, crime rate and race distribution across Philadelphia.
+Which particularly, it ended up find out the crime attack all people and all regions equally, but disadvantaged groups do more likely to be affected.
+Yet, it also highlights the crime need more social indicators other than property features to investigate their distributions.
 

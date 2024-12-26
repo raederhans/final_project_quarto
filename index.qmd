@@ -1,14 +1,40 @@
 ---
-title: "MUSA 550: Final Project Template"
-subtitle: "An example website demonstrating the power of Quarto for sharing analyses on the web"
+title: "MUSA 550: Yu Qiushi Final Project"
+
+subtitle: "Crime rate, Property Featrues and Racial Geography in Philadelphia: How do crime spread out and who is suffering?"
 ---
 
-## Welcome!
-
-We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.
-
-Quarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.
-
 ::: {.callout-important}
-This template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project.
+
+## Abstract
+
+This project aims to analyze the relationship between crime rates, crime types (and their
+timing), housing prices, and racial demographics in Philadelphia. The goal is to
+determine if patterns exist between these variables and whether factors like racial
+distribution or housing characteristics (room numbers, specific room types) are linked 
+to crime rates or specific crime types. The analysis will include a focus on when crimes are most 
+likely to occur (on month basis) to uncover temporal trends in criminal activity.
+
 :::
+
+It is further centered around these questions:
+
+1. Is there a correlation between crime rates and racial demographics in Philadelphia?
+
+2. Do certain crime types have stronger links to housing prices or characteristics?
+
+3. Are there temporal patterns in criminal activity that vary by crime type?
+
+Data Sets used in this project
+
+1.
+Crime Data:- Source: Open Data Philly Crime Incident API
+
+2.
+Housing Data: - Source: Carto Property Registration API
+
+3.
+Demographic Data: - Source:Census API
+
+4.
+Geographic Data - Source: Census API downloaded, and through RStudio script as well

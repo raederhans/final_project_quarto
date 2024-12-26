@@ -5,25 +5,19 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550"
+  title: "Final Project —— Housing Prices, Crime rate and Racial Geography In Philadelphia"
   page-footer:
-    left: "delmelle@gmail.com"
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "Yuqiushi@upenn.edu"
+    right: "This page is built with the talented free will of Capybara and [Quarto](https://quarto.org/) for the good of Philly."
 
   sidebar:
-    logo: "images/course-icon.png"
+    logo: "images/bara1.jpg"
     pinned: true
     align: center
     tools:
-      - icon: globe
-        href: https://www.design.upenn.edu/people/eric-delmelle
-        text: "Personal Website"
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2024/
-        text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/ericdelmelle
-        text: "Eric Delmelle Twitter"
+        href: https://github.com/raederhans
+        text: "Raederhans Github Page"
     style: "docked"
     search: true
     collapse-level: 2

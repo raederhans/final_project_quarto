@@ -1,0 +1,40 @@
+---
+title: "MUSA 550: Yu Qiushi Final Project"
+
+subtitle: "Crime rate, Property Featrues and Racial Geography in Philadelphia: How do crime spread out and who is suffering?"
+---
+
+::: {.callout-important}
+
+## Abstract
+
+This project aims to analyze the relationship between crime rates, crime types (and their
+timing), housing prices, and racial demographics in Philadelphia. The goal is to
+determine if patterns exist between these variables and whether factors like racial
+distribution or housing characteristics (room numbers, specific room types) are linked 
+to crime rates or specific crime types. The analysis will include a focus on when crimes are most 
+likely to occur (on month basis) to uncover temporal trends in criminal activity.
+
+:::
+
+It is further centered around these questions:
+
+1. Is there a correlation between crime rates and racial demographics in Philadelphia?
+
+2. Do certain crime types have stronger links to housing prices or characteristics?
+
+3. Are there temporal patterns in criminal activity that vary by crime type?
+
+Data Sets used in this project
+
+1.
+Crime Data:- Source: Open Data Philly Crime Incident API
+
+2.
+Housing Data: - Source: Carto Property Registration API
+
+3.
+Demographic Data: - Source:Census API
+
+4.
+Geographic Data - Source: Census API downloaded, and through RStudio script as well

@@ -1,0 +1,19 @@
+---
+title: "About Me"
+toc: false
+---
+
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+
+<img src="images/bara2.jpg" alt="Bara God" style="width: 170px; border-radius: 10px;">
+
+<div>
+  <p><span style="color:red">Greetings my Friends!</span></p>
+
+  - I am Yu Qiushi, one who loves capybara so much
+  - I am the founder of a Design and Planning company, I also teach, analyze and simply do nothing when I spare, Greetings!
+  - <span style="color:orange">Thumbs up if you like capybara, this project will serve Philadelphia, but also them.</span>
+  - <span style="color:gray">Please contact me via email if you are interested</span>
+</div>
+
+</div>
