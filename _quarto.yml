@@ -3,7 +3,6 @@ project:
   output-dir: docs
   preview:
     port: 3333
-
 website:
   title: "Final Project —— Housing Prices, Crime rate and Racial Geography In Philadelphia"
   page-footer:
@@ -27,7 +26,6 @@ website:
       - section: analysis/index.qmd
         contents:
           - analysis/Project File.ipynb 
-
 format:
   html:
     highlight-style: solarized
