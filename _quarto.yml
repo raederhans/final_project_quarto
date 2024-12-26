@@ -9,7 +9,6 @@ website:
   page-footer:
     left: "Yuqiushi@upenn.edu"
     right: "This page is built with the talented free will of Capybara and [Quarto](https://quarto.org/) for the good of Philly."
-
   sidebar:
     logo: "images/bara1.jpg"
     pinned: true
